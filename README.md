@@ -1,7 +1,7 @@
-### Hey there 👋
+### Hello there! 👋
 
-About me 
-[RESUME](https://github.com/strglass91/RESUME)
+Please click here if you want to see my resume.  
+:sparkles: [RESUME](https://github.com/strglass91/RESUME) :sparkles:
 
 
 <br>	
