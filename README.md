@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there 👋
+
+About me 
+[RESUME](https://github.com/JSpiner/RESUME)
+
+
+<br>	
+
 
 <!--
 **strglass91/strglass91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
