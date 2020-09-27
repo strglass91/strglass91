@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 About me 
-[RESUME](https://github.com/JSpiner/RESUME)
+[RESUME](https://github.com/strglass91/RESUME)
 
 
 <br>	
